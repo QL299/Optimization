@@ -1,0 +1,584 @@
+
+Gurobi 8.1.1 (mac64, Python) logging started Thu Nov  7 23:15:55 2019
+
+Academic license - for non-commercial use only
+Warning: linear constraint 0 and linear constraint 1 have the same name "Paper1"
+Optimize a model with 2982 rows, 1491 columns and 32802 nonzeros
+Coefficient statistics:
+  Matrix range     [1e+00, 1e+00]
+  Objective range  [5e+00, 1e+04]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [3e+00, 2e+02]
+
+Concurrent LP optimizer: dual simplex and barrier
+Showing barrier log only...
+
+Presolve time: 0.05s
+
+Solved with barrier
+Solved in 0 iterations and 0.05 seconds
+Infeasible model
+Warning: linear constraint 0 and linear constraint 1 have the same name "Paper1"
+Optimize a model with 2982 rows, 1491 columns and 32802 nonzeros
+Coefficient statistics:
+  Matrix range     [1e+00, 1e+00]
+  Objective range  [5e+00, 1e+04]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [3e+00, 2e+02]
+
+Concurrent LP optimizer: dual simplex and barrier
+Showing barrier log only...
+
+Presolve time: 0.02s
+
+Solved with barrier
+Solved in 0 iterations and 0.02 seconds
+Infeasible model
+Warning: linear constraint 0 and linear constraint 1 have the same name "Paper1"
+Optimize a model with 2982 rows, 1491 columns and 32802 nonzeros
+Coefficient statistics:
+  Matrix range     [1e+00, 1e+00]
+  Objective range  [5e+00, 1e+04]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [3e+00, 2e+02]
+
+Concurrent LP optimizer: dual simplex and barrier
+Showing barrier log only...
+
+Presolve time: 0.03s
+
+Solved with barrier
+Solved in 0 iterations and 0.04 seconds
+Infeasible model
+Warning: linear constraint 0 and linear constraint 1 have the same name "Paper1"
+Optimize a model with 2982 rows, 1491 columns and 32802 nonzeros
+Coefficient statistics:
+  Matrix range     [1e+00, 1e+00]
+  Objective range  [5e+00, 1e+04]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [3e+00, 2e+02]
+
+Concurrent LP optimizer: dual simplex and barrier
+Showing barrier log only...
+
+Presolve time: 0.02s
+
+Solved with barrier
+Solved in 0 iterations and 0.03 seconds
+Infeasible model
+Warning: linear constraint 0 and linear constraint 1 have the same name "Paper1"
+Optimize a model with 5964 rows, 1491 columns and 65604 nonzeros
+Coefficient statistics:
+  Matrix range     [1e+00, 1e+00]
+  Objective range  [5e+00, 1e+04]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [3e+00, 2e+02]
+
+Concurrent LP optimizer: dual simplex and barrier
+Showing barrier log only...
+
+Presolve time: 0.02s
+
+Solved with barrier
+Solved in 0 iterations and 0.02 seconds
+Infeasible model
+Warning: linear constraint 0 and linear constraint 1 have the same name "Paper1"
+Optimize a model with 2982 rows, 1491 columns and 32802 nonzeros
+Coefficient statistics:
+  Matrix range     [1e+00, 1e+00]
+  Objective range  [5e+00, 1e+04]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [3e+00, 2e+02]
+
+Concurrent LP optimizer: dual simplex and barrier
+Showing barrier log only...
+
+Presolve time: 0.03s
+
+Solved with barrier
+Solved in 0 iterations and 0.04 seconds
+Infeasible model
+Warning: linear constraint 0 and linear constraint 1 have the same name "Paper1"
+Optimize a model with 2982 rows, 1491 columns and 32802 nonzeros
+Coefficient statistics:
+  Matrix range     [1e+00, 1e+00]
+  Objective range  [5e+00, 1e+04]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [3e+00, 2e+02]
+
+Concurrent LP optimizer: dual simplex and barrier
+Showing barrier log only...
+
+Presolve time: 0.02s
+
+Solved with barrier
+Solved in 0 iterations and 0.02 seconds
+Infeasible model
+Warning: linear constraint 0 and linear constraint 1 have the same name "Paper1"
+Optimize a model with 2982 rows, 1491 columns and 32802 nonzeros
+Coefficient statistics:
+  Matrix range     [1e+00, 1e+00]
+  Objective range  [5e+00, 1e+04]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [3e+00, 2e+02]
+
+Concurrent LP optimizer: dual simplex and barrier
+Showing barrier log only...
+
+Presolve time: 0.02s
+
+Solved with barrier
+Solved in 0 iterations and 0.03 seconds
+Infeasible model
+Warning: linear constraint 0 and linear constraint 1 have the same name "Paper1"
+Optimize a model with 2982 rows, 1491 columns and 32802 nonzeros
+Coefficient statistics:
+  Matrix range     [1e+00, 1e+00]
+  Objective range  [5e+00, 1e+04]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [3e+00, 2e+02]
+
+Concurrent LP optimizer: dual simplex and barrier
+Showing barrier log only...
+
+Presolve time: 0.02s
+
+Solved with barrier
+Solved in 0 iterations and 0.02 seconds
+Infeasible model
+Warning: linear constraint 0 and linear constraint 1 have the same name "Paper1"
+Optimize a model with 2982 rows, 1491 columns and 32802 nonzeros
+Coefficient statistics:
+  Matrix range     [1e+00, 1e+00]
+  Objective range  [5e+00, 1e+04]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [3e+00, 2e+02]
+
+Concurrent LP optimizer: dual simplex and barrier
+Showing barrier log only...
+
+Presolve time: 0.02s
+
+Solved with dual simplex
+Solved in 0 iterations and 0.03 seconds
+Infeasible model
+Warning: linear constraint 0 and linear constraint 1 have the same name "Paper1"
+Optimize a model with 2982 rows, 1491 columns and 32802 nonzeros
+Coefficient statistics:
+  Matrix range     [1e+00, 1e+00]
+  Objective range  [5e+00, 1e+04]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [3e+00, 2e+02]
+
+Concurrent LP optimizer: dual simplex and barrier
+Showing barrier log only...
+
+Presolve time: 0.02s
+
+Solved with barrier
+Solved in 0 iterations and 0.03 seconds
+Infeasible model
+Warning: linear constraint 0 and linear constraint 1 have the same name "Paper1"
+Optimize a model with 2982 rows, 1491 columns and 32802 nonzeros
+Coefficient statistics:
+  Matrix range     [1e+00, 1e+00]
+  Objective range  [5e+00, 1e+04]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [3e+00, 2e+02]
+
+Concurrent LP optimizer: dual simplex and barrier
+Showing barrier log only...
+
+Presolve time: 0.02s
+
+Solved with barrier
+Solved in 0 iterations and 0.02 seconds
+Infeasible model
+
+Gurobi 8.1.1 (mac64, Python) logging started Thu Nov  7 23:30:13 2019
+
+Academic license - for non-commercial use only
+Optimize a model with 72 rows, 1491 columns and 2982 nonzeros
+Coefficient statistics:
+  Matrix range     [1e+00, 1e+00]
+  Objective range  [1e+00, 1e+04]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [3e+00, 2e+02]
+Presolve removed 68 rows and 1482 columns
+Presolve time: 0.02s
+Presolved: 4 rows, 9 columns, 18 nonzeros
+
+Iteration    Objective       Primal Inf.    Dual Inf.      Time
+       0    6.6300000e+02   3.000000e+00   0.000000e+00      0s
+       3    6.7500000e+02   0.000000e+00   0.000000e+00      0s
+
+Solved in 3 iterations and 0.05 seconds
+Optimal objective  6.750000000e+02
+Warning: linear constraint 0 and linear constraint 1 have the same name "Paper1"
+Optimize a model with 5964 rows, 1491 columns and 65604 nonzeros
+Coefficient statistics:
+  Matrix range     [1e+00, 1e+00]
+  Objective range  [5e+00, 1e+04]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [3e+00, 2e+02]
+
+Concurrent LP optimizer: dual simplex and barrier
+Showing barrier log only...
+
+Presolve time: 0.02s
+
+Solved with barrier
+Solved in 0 iterations and 0.03 seconds
+Infeasible model
+Warning: linear constraint 0 and linear constraint 1 have the same name "Paper1"
+Optimize a model with 5964 rows, 1491 columns and 65604 nonzeros
+Coefficient statistics:
+  Matrix range     [1e+00, 1e+00]
+  Objective range  [5e+00, 1e+04]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [3e+00, 2e+02]
+
+Concurrent LP optimizer: dual simplex and barrier
+Showing barrier log only...
+
+Presolve time: 0.02s
+
+Solved with barrier
+Solved in 0 iterations and 0.02 seconds
+Infeasible model
+Warning: linear constraint 0 and linear constraint 1 have the same name "Paper1"
+Optimize a model with 5964 rows, 1491 columns and 65604 nonzeros
+Coefficient statistics:
+  Matrix range     [1e+00, 1e+00]
+  Objective range  [5e+00, 1e+04]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [3e+00, 2e+02]
+
+Concurrent LP optimizer: dual simplex and barrier
+Showing barrier log only...
+
+Presolve time: 0.03s
+
+Solved with barrier
+Solved in 0 iterations and 0.03 seconds
+Infeasible model
+
+Gurobi 8.1.1 (mac64, Python) logging started Thu Nov  7 23:31:29 2019
+
+Academic license - for non-commercial use only
+Warning: linear constraint 0 and linear constraint 1 have the same name "Paper1"
+Optimize a model with 2982 rows, 1491 columns and 32802 nonzeros
+Coefficient statistics:
+  Matrix range     [1e+00, 1e+00]
+  Objective range  [5e+00, 1e+04]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [3e+00, 2e+02]
+
+Concurrent LP optimizer: dual simplex and barrier
+Showing barrier log only...
+
+Presolve time: 0.02s
+
+Solved with barrier
+Solved in 0 iterations and 0.02 seconds
+Infeasible model
+Warning: linear constraint 0 and linear constraint 1 have the same name "Paper1"
+Optimize a model with 2982 rows, 1491 columns and 32802 nonzeros
+Coefficient statistics:
+  Matrix range     [1e+00, 1e+00]
+  Objective range  [5e+00, 1e+04]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [3e+00, 2e+02]
+
+Concurrent LP optimizer: dual simplex and barrier
+Showing barrier log only...
+
+Presolve time: 0.03s
+
+Solved with barrier
+Solved in 0 iterations and 0.03 seconds
+Infeasible model
+Warning: linear constraint 0 and linear constraint 1 have the same name "Paper1"
+Optimize a model with 5964 rows, 1491 columns and 65604 nonzeros
+Coefficient statistics:
+  Matrix range     [1e+00, 1e+00]
+  Objective range  [5e+00, 1e+04]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [3e+00, 2e+02]
+
+Concurrent LP optimizer: dual simplex and barrier
+Showing barrier log only...
+
+Presolve time: 0.03s
+
+Solved with barrier
+Solved in 0 iterations and 0.03 seconds
+Infeasible model
+Warning: linear constraint 0 and linear constraint 1 have the same name "Paper1"
+Optimize a model with 2982 rows, 1491 columns and 32802 nonzeros
+Coefficient statistics:
+  Matrix range     [1e+00, 1e+00]
+  Objective range  [1e+00, 1e+04]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [3e+00, 2e+02]
+
+Concurrent LP optimizer: dual simplex and barrier
+Showing barrier log only...
+
+Presolve time: 0.02s
+
+Solved with barrier
+Solved in 0 iterations and 0.02 seconds
+Infeasible model
+Warning: linear constraint 0 and linear constraint 1 have the same name "Paper1"
+Optimize a model with 5964 rows, 1491 columns and 65604 nonzeros
+Coefficient statistics:
+  Matrix range     [1e+00, 1e+00]
+  Objective range  [1e+00, 1e+04]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [3e+00, 2e+02]
+
+Concurrent LP optimizer: dual simplex and barrier
+Showing barrier log only...
+
+Presolve time: 0.02s
+
+Solved with barrier
+Solved in 0 iterations and 0.02 seconds
+Infeasible model
+Warning: linear constraint 0 and linear constraint 1 have the same name "Paper1"
+Optimize a model with 2982 rows, 1491 columns and 32802 nonzeros
+Coefficient statistics:
+  Matrix range     [1e+00, 1e+00]
+  Objective range  [1e+00, 1e+04]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [3e+00, 2e+02]
+
+Concurrent LP optimizer: dual simplex and barrier
+Showing barrier log only...
+
+Presolve time: 0.02s
+
+Solved with barrier
+Solved in 0 iterations and 0.02 seconds
+Infeasible model
+Warning: linear constraint 0 and linear constraint 1 have the same name "Paper1"
+Optimize a model with 2982 rows, 1491 columns and 32802 nonzeros
+Coefficient statistics:
+  Matrix range     [1e+00, 1e+00]
+  Objective range  [1e+00, 1e+04]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [3e+00, 2e+02]
+
+Concurrent LP optimizer: dual simplex and barrier
+Showing barrier log only...
+
+Presolve time: 0.02s
+
+Solved with barrier
+Solved in 0 iterations and 0.02 seconds
+Infeasible model
+Optimize a model with 72 rows, 1491 columns and 2982 nonzeros
+Coefficient statistics:
+  Matrix range     [1e+00, 1e+00]
+  Objective range  [1e+00, 1e+04]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [3e+00, 2e+02]
+Presolve removed 68 rows and 1482 columns
+Presolve time: 0.01s
+Presolved: 4 rows, 9 columns, 18 nonzeros
+
+Iteration    Objective       Primal Inf.    Dual Inf.      Time
+       0    6.6300000e+02   3.000000e+00   0.000000e+00      0s
+       3    6.7500000e+02   0.000000e+00   0.000000e+00      0s
+
+Solved in 3 iterations and 0.02 seconds
+Optimal objective  6.750000000e+02
+Warning: linear constraint 0 and linear constraint 1 have the same name "P1"
+Optimize a model with 1492 rows, 1491 columns and 17892 nonzeros
+Coefficient statistics:
+  Matrix range     [1e+00, 1e+00]
+  Objective range  [1e+00, 1e+06]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [3e+00, 2e+02]
+Presolve time: 0.01s
+
+Solved in 0 iterations and 0.01 seconds
+Infeasible model
+Warning: linear constraint 0 and linear constraint 1 have the same name "P1"
+Optimize a model with 1492 rows, 1491 columns and 17892 nonzeros
+Coefficient statistics:
+  Matrix range     [1e+00, 1e+00]
+  Objective range  [1e+00, 1e+04]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [3e+00, 2e+02]
+Presolve time: 0.01s
+
+Solved in 0 iterations and 0.01 seconds
+Infeasible model
+Optimize a model with 72 rows, 1491 columns and 2982 nonzeros
+Coefficient statistics:
+  Matrix range     [1e+00, 1e+00]
+  Objective range  [1e+00, 1e+04]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [3e+00, 2e+02]
+Presolve removed 68 rows and 1482 columns
+Presolve time: 0.01s
+Presolved: 4 rows, 9 columns, 18 nonzeros
+
+Iteration    Objective       Primal Inf.    Dual Inf.      Time
+       0    6.6300000e+02   3.000000e+00   0.000000e+00      0s
+       3    6.7500000e+02   0.000000e+00   0.000000e+00      0s
+
+Solved in 3 iterations and 0.02 seconds
+Optimal objective  6.750000000e+02
+Optimize a model with 72 rows, 1491 columns and 2982 nonzeros
+Coefficient statistics:
+  Matrix range     [1e+00, 1e+00]
+  Objective range  [1e+00, 1e+04]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [3e+00, 2e+02]
+Presolve removed 68 rows and 1482 columns
+Presolve time: 0.01s
+Presolved: 4 rows, 9 columns, 18 nonzeros
+
+Iteration    Objective       Primal Inf.    Dual Inf.      Time
+       0    6.6300000e+02   3.000000e+00   0.000000e+00      0s
+       3    6.7500000e+02   0.000000e+00   0.000000e+00      0s
+
+Solved in 3 iterations and 0.02 seconds
+Optimal objective  6.750000000e+02
+Optimize a model with 72 rows, 1491 columns and 2982 nonzeros
+Coefficient statistics:
+  Matrix range     [1e+00, 1e+00]
+  Objective range  [1e+00, 1e+04]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [3e+00, 2e+02]
+
+Solved in 3 iterations and 0.01 seconds
+Optimal objective  6.750000000e+02
+Optimize a model with 72 rows, 1491 columns and 2982 nonzeros
+Coefficient statistics:
+  Matrix range     [1e+00, 1e+00]
+  Objective range  [1e+00, 1e+04]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [3e+00, 2e+02]
+
+Solved in 3 iterations and 0.01 seconds
+Optimal objective  6.750000000e+02
+Optimize a model with 72 rows, 1491 columns and 2982 nonzeros
+Coefficient statistics:
+  Matrix range     [1e+00, 1e+00]
+  Objective range  [1e+00, 1e+04]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [3e+00, 2e+02]
+
+Solved in 3 iterations and 0.01 seconds
+Optimal objective  6.750000000e+02
+Optimize a model with 72 rows, 1491 columns and 2982 nonzeros
+Coefficient statistics:
+  Matrix range     [1e+00, 1e+00]
+  Objective range  [1e+00, 1e+04]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [3e+00, 2e+02]
+
+Solved in 3 iterations and 0.01 seconds
+Optimal objective  6.750000000e+02
+Optimize a model with 72 rows, 1491 columns and 2982 nonzeros
+Coefficient statistics:
+  Matrix range     [1e+00, 1e+00]
+  Objective range  [1e+00, 1e+04]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [3e+00, 2e+02]
+
+Solved in 3 iterations and 0.01 seconds
+Optimal objective  6.750000000e+02
+Optimize a model with 72 rows, 1491 columns and 2982 nonzeros
+Coefficient statistics:
+  Matrix range     [1e+00, 1e+00]
+  Objective range  [1e+00, 1e+04]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [3e+00, 2e+02]
+Presolve removed 68 rows and 1482 columns
+Presolve time: 0.01s
+Presolved: 4 rows, 9 columns, 18 nonzeros
+
+Iteration    Objective       Primal Inf.    Dual Inf.      Time
+       0    9.3800000e+02   3.000000e+00   0.000000e+00      0s
+       3    9.6500000e+02   0.000000e+00   0.000000e+00      0s
+
+Solved in 3 iterations and 0.02 seconds
+Optimal objective  9.650000000e+02
+Optimize a model with 72 rows, 1491 columns and 2982 nonzeros
+Coefficient statistics:
+  Matrix range     [1e+00, 1e+00]
+  Objective range  [1e+00, 1e+07]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [3e+00, 2e+02]
+Presolve removed 68 rows and 1482 columns
+Presolve time: 0.02s
+Presolved: 4 rows, 9 columns, 18 nonzeros
+
+Iteration    Objective       Primal Inf.    Dual Inf.      Time
+       0    9.3800000e+02   3.000000e+00   0.000000e+00      0s
+       3    9.6500000e+02   0.000000e+00   0.000000e+00      0s
+
+Solved in 3 iterations and 0.03 seconds
+Optimal objective  9.650000000e+02
+Optimize a model with 72 rows, 1491 columns and 2982 nonzeros
+Coefficient statistics:
+  Matrix range     [1e+00, 1e+00]
+  Objective range  [1e+00, 1e+07]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [3e+00, 2e+02]
+Presolve removed 68 rows and 1482 columns
+Presolve time: 0.01s
+Presolved: 4 rows, 9 columns, 18 nonzeros
+
+Iteration    Objective       Primal Inf.    Dual Inf.      Time
+       0    9.3800000e+02   3.000000e+00   0.000000e+00      0s
+       3    9.6500000e+02   0.000000e+00   0.000000e+00      0s
+
+Solved in 3 iterations and 0.02 seconds
+Optimal objective  9.650000000e+02
+Optimize a model with 144 rows, 1491 columns and 5964 nonzeros
+Coefficient statistics:
+  Matrix range     [1e+00, 1e+00]
+  Objective range  [1e+00, 1e+07]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [3e+00, 2e+02]
+Iteration    Objective       Primal Inf.    Dual Inf.      Time
+       0    9.6500000e+02   0.000000e+00   0.000000e+00      0s
+
+Solved in 0 iterations and 0.02 seconds
+Optimal objective  9.650000000e+02
+
+Gurobi 8.1.1 (mac64, Python) logging started Thu Nov  7 23:59:22 2019
+
+Academic license - for non-commercial use only
+Optimize a model with 92 rows, 1491 columns and 2982 nonzeros
+Variable types: 0 continuous, 1491 integer (0 binary)
+Coefficient statistics:
+  Matrix range     [1e+00, 1e+00]
+  Objective range  [5e+00, 1e+04]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [3e+00, 1e+01]
+Found heuristic solution: objective 90415.000000
+Presolve time: 0.03s
+Presolved: 92 rows, 1491 columns, 2982 nonzeros
+Variable types: 0 continuous, 1491 integer (1491 binary)
+
+Root relaxation: objective 6.112950e+05, 216 iterations, 0.01 seconds
+
+    Nodes    |    Current Node    |     Objective Bounds      |     Work
+ Expl Unexpl |  Obj  Depth IntInf | Incumbent    BestBd   Gap | It/Node Time
+
+*    0     0               0    611295.00000 611295.000  0.00%     -    0s
+
+Explored 0 nodes (216 simplex iterations) in 0.09 seconds
+Thread count was 4 (of 4 available processors)
+
+Solution count 2: 611295 90415 
+
+Optimal solution found (tolerance 1.00e-04)
+Best objective 6.112950000000e+05, best bound 6.112950000000e+05, gap 0.0000%
